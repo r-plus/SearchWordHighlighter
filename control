@@ -1,0 +1,16 @@
+Package: jp.r-plus.searchwordhighlighter
+Name: SearchWordHighlighter
+Depends: mobilesubstrate, firmware (>= 4.0)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Highlight searched word for safari
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: r_plus <anasthasia.r+highlighter@gmail.com>
+Section: Tweaks
+dev: rplus
+Tag: purpose::extension
+Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
+Conflicts: us.hackulo.appsync50plus
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=searchwordhighlighterDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=searchwordhighlighterDp
