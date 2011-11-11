@@ -23,7 +23,7 @@ static NSString *const jsString = @"function uiWebview_HighlightAllOccurencesOfS
   
   // lazy...
   //NSString *searchWord = [[self addressView] searchTextForFindOnThisPage];
-  id webView = [[[%c(BrowserController) sharedBrowserController] activeWebView] webView];
+  id webView = [[self activeWebView] webView];
   
   [webView stringByEvaluatingJavaScriptFromString:jsString];
   
