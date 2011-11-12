@@ -1,4 +1,4 @@
-#SearchWordHighlighter
+#[SearchWordHighlighter](http://apt.thebigboss.org/onepackage.php?bundleid=jp.r-plus.searchwordhighlighter)
 ![](http://moreinfo.thebigboss.org/moreinfo/searchwordhighlighter1.png)   
 1.Memorize the latest searched word from search bar.   
 2.When page is loaded, highlight memorized words.
